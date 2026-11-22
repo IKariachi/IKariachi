@@ -12,5 +12,3 @@ That's why I start in coding but I speak little English but I study this !
 ## ¡Bienvenidos a mi Github!
 Soy I. K. Kariachi y soy 🇫🇷francés🇫🇷, soy principiante en código pero ¡soy un gran fan del código! 
 Por eso empiezo programando, pero hablo poco inglés, ¡aunque estudio esto!
-
-Merci à @buchtioof
